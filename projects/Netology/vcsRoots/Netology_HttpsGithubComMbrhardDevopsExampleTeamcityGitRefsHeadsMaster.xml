@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="d9c990bd-670f-4360-ae2c-527e2d1a57a2" type="jetbrains.git" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2025.3/project-config.xsd">
+  <name>https://github.com/mbrhard-devops/example-teamcity.git#refs/heads/master</name>
+  <param name="authMethod" value="ANONYMOUS" />
+  <param name="branch" value="refs/heads/master" />
+  <param name="ignoreKnownHosts" value="true" />
+  <param name="submoduleCheckout" value="CHECKOUT" />
+  <param name="teamcity:branchSpec" value="refs/heads/*" />
+  <param name="url" value="https://github.com/mbrhard-devops/example-teamcity.git" />
+  <param name="useAlternates" value="AUTO" />
+</vcs-root>
+
