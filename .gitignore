@@ -1,3 +1,5 @@
+targetsettings.xml
+=======
 *.1
 *.2
 *.3
@@ -5,3 +7,4 @@
 _trash
 database.properties
 encryption-config.xml
+
