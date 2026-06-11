@@ -1,1 +1,7 @@
-target
+*.1
+*.2
+*.3
+*.new
+_trash
+database.properties
+encryption-config.xml
